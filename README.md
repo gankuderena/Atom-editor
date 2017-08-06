@@ -1,3 +1,1 @@
-主页
-邻国诸侯https://github.com/gugejun/luan/wiki
-
+Atom 的简体中文汉化包
